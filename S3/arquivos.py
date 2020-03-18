@@ -10,4 +10,4 @@ meu_arquivo.seek(0)
 #iterando dentro de um arquivo de texto
 for line in meu_arquivo:
     print(line)
-
+ar

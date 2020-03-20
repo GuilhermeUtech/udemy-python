@@ -16,6 +16,16 @@ elif banana > 10:
 else:
     print("Sei lá manin")
 
-#
+
+a = [10, 9, 8, 8, 10, 2, 3]
+if a[0] > 7:
+    print("passou")
+elif a[0] < 3:
+    print("Muito burro")
+
+
+
+
+
 
 
